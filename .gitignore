@@ -1,1 +1,33 @@
-change.log
+#====================
+#= Tools ============
+#====================
+
+/changelog.md
+/todo.md
+
+#====================
+#= Python-generated =
+#====================
+
+__pycache__/
+
+
+#====================
+#= IDE-generated ====
+#====================
+
+.idea/
+
+
+#====================
+#= OS generated =====
+#====================
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
